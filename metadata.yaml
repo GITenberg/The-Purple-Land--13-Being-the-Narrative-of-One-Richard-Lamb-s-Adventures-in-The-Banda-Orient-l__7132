@@ -1,0 +1,31 @@
+_repo: The-Purple-Land--13-Being-the-Narrative-of-One-Richard-Lamb-s-Adventures-in-The-Banda-Orient-l__7132
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hudson, W. H. (William Henry)
+    aliases:
+    - Harford, Henry
+    - Hudson, William Henry
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '484'
+    url: http://www.gutenberg.org/2009/agents/484
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Hudson
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Uruguay -- Fiction'
+- !lcsh 'British -- Uruguay -- Fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: "The Purple Land\r\nBeing the Narrative of One Richard Lamb's Adventures in\
+  \ The Banda Orientál, in South America, as Told By Himself"
+url: http://www.gutenberg.org/ebooks/7132
